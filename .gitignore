@@ -4,6 +4,7 @@
 build/
 out/
 classes/
+gradle/
 
 # eclipse
 
@@ -29,5 +30,5 @@ bin/
 *.DS_Store
 
 # fabric
-
+remappedSrc/
 run/
